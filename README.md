@@ -84,7 +84,7 @@ function addTodoToUl(newTodo){  //newTodo içine aldığımız input bilgilerini
 
     }
 
-Buraya kadar yaptıklarımız 1. video
+
 --------------------------------------------------------------------------------------------------------------------
 <hr>
 
@@ -133,7 +133,7 @@ function addTodo(e){
 
     }
 
-    buraya kadarki kısım 2. video
+  
 --------------------------------------------------------------
 <hr>
 
@@ -165,7 +165,7 @@ bu bölümde todoları yani newTodo değerlerini local storageye ekleyeceğiz
 
     }
 
-    buraya kadarki kısım 3. video
+ 
 -----------------------------------------------------------------------------------------------------------------------------------
     <hr>
 
